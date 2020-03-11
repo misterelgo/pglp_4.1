@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3156737-1d93-4267-98c8-5741e7a21c71" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/elgo/AffichParGroupe.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/elgo/Iterator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/elgo/CompositePersonnel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/elgo/CompositePersonnel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
