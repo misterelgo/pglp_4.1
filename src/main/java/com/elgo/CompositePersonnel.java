@@ -5,7 +5,7 @@ import java.util.ArrayList;
 public class CompositePersonnel implements PersonnelInterface {
 
     private int IDgrp;
-    private ArrayList<PersonnelInterface> grpPerso=new ArrayList<PersonnelInterface>();
+    public ArrayList<PersonnelInterface> grpPerso=new ArrayList<PersonnelInterface>();
 
     public CompositePersonnel(int IDgrp) {
         this.IDgrp=IDgrp;

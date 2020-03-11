@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3156737-1d93-4267-98c8-5741e7a21c71" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/elgo/CompositePersonnel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/PersonnelTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/elgo/AffichParGroupe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/elgo/Iterator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/elgo/CompositePersonnel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/elgo/CompositePersonnel.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,9 +15,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
-        <option value="Class" />
         <option value="JUnit4 Test Class" />
+        <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -103,10 +104,10 @@
       <screen x="0" y="31" width="1366" height="737" />
     </state>
     <state x="278" y="63" width="810" height="680" key="#Intentions/0.31.1366.737@0.31.1366.737" timestamp="1583941401616" />
-    <state x="491" y="113" width="384" height="580" key="#com.intellij.ide.util.MemberChooser" timestamp="1583941979976">
+    <state x="491" y="113" width="384" height="580" key="#com.intellij.ide.util.MemberChooser" timestamp="1583946388958">
       <screen x="0" y="31" width="1366" height="737" />
     </state>
-    <state x="491" y="113" width="384" height="580" key="#com.intellij.ide.util.MemberChooser/0.31.1366.737@0.31.1366.737" timestamp="1583941979976" />
+    <state x="491" y="113" width="384" height="580" key="#com.intellij.ide.util.MemberChooser/0.31.1366.737@0.31.1366.737" timestamp="1583946388958" />
     <state width="1320" height="174" key="GridCell.Tab.0.bottom" timestamp="1583945536031">
       <screen x="0" y="31" width="1366" height="737" />
     </state>
