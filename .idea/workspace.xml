@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3156737-1d93-4267-98c8-5741e7a21c71" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pglp_4.1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/pglp_4.1.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/elgo/CompositePersonnel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/elgo/CompositePersonnel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/elgo/CompositePersonnel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/elgo/CompositePersonnel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/PersonnelTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/PersonnelTest.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,7 +58,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.PersonnelTest">
+  <component name="RunManager" selected="JUnit.PersonnelTest.test">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.elgo.App" />
       <module name="pglp_4.1" />
@@ -76,8 +81,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="PersonnelTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="pglp_4.1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PersonnelTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.PersonnelTest.test" />
         <item itemvalue="JUnit.PersonnelTest" />
         <item itemvalue="Application.App" />
       </list>
@@ -105,22 +121,30 @@
       <screen x="0" y="31" width="1366" height="737" />
     </state>
     <state x="491" y="113" width="384" height="580" key="#com.intellij.ide.util.MemberChooser/0.31.1366.737@0.31.1366.737" timestamp="1583946388958" />
-    <state width="1320" height="174" key="GridCell.Tab.0.bottom" timestamp="1583945536031">
+    <state x="466" y="160" width="434" height="487" key="FileChooserDialogImpl" timestamp="1584809970367">
       <screen x="0" y="31" width="1366" height="737" />
     </state>
-    <state width="1320" height="174" key="GridCell.Tab.0.bottom/0.31.1366.737@0.31.1366.737" timestamp="1583945536031" />
-    <state width="1320" height="174" key="GridCell.Tab.0.center" timestamp="1583945536030">
+    <state x="466" y="160" width="434" height="487" key="FileChooserDialogImpl/0.31.1366.737@0.31.1366.737" timestamp="1584809970367" />
+    <state width="1320" height="174" key="GridCell.Tab.0.bottom" timestamp="1585242241447">
       <screen x="0" y="31" width="1366" height="737" />
     </state>
-    <state width="1320" height="174" key="GridCell.Tab.0.center/0.31.1366.737@0.31.1366.737" timestamp="1583945536030" />
-    <state width="1320" height="174" key="GridCell.Tab.0.left" timestamp="1583945536030">
+    <state width="1320" height="174" key="GridCell.Tab.0.bottom/0.31.1366.737@0.31.1366.737" timestamp="1585242241447" />
+    <state width="1320" height="174" key="GridCell.Tab.0.center" timestamp="1585242241446">
       <screen x="0" y="31" width="1366" height="737" />
     </state>
-    <state width="1320" height="174" key="GridCell.Tab.0.left/0.31.1366.737@0.31.1366.737" timestamp="1583945536030" />
-    <state width="1320" height="174" key="GridCell.Tab.0.right" timestamp="1583945536031">
+    <state width="1320" height="174" key="GridCell.Tab.0.center/0.31.1366.737@0.31.1366.737" timestamp="1585242241446" />
+    <state width="1320" height="174" key="GridCell.Tab.0.left" timestamp="1585242241446">
       <screen x="0" y="31" width="1366" height="737" />
     </state>
-    <state width="1320" height="174" key="GridCell.Tab.0.right/0.31.1366.737@0.31.1366.737" timestamp="1583945536031" />
+    <state width="1320" height="174" key="GridCell.Tab.0.left/0.31.1366.737@0.31.1366.737" timestamp="1585242241446" />
+    <state width="1320" height="174" key="GridCell.Tab.0.right" timestamp="1585242241446">
+      <screen x="0" y="31" width="1366" height="737" />
+    </state>
+    <state width="1320" height="174" key="GridCell.Tab.0.right/0.31.1366.737@0.31.1366.737" timestamp="1585242241446" />
+    <state x="343" y="229" key="com.intellij.ide.util.TipDialog" timestamp="1584809957147">
+      <screen x="0" y="31" width="1366" height="737" />
+    </state>
+    <state x="343" y="229" key="com.intellij.ide.util.TipDialog/0.31.1366.737@0.31.1366.737" timestamp="1584809957147" />
     <state x="429" y="75" width="508" height="657" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1583945127127">
       <screen x="0" y="31" width="1366" height="737" />
     </state>

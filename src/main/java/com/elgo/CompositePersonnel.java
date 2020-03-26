@@ -19,7 +19,10 @@ public class CompositePersonnel implements PersonnelInterface {
         this.grpPerso.remove(perso);
     }
 
-
+    public String toString(){
+        String str = "\t Je suis un composite ID ==> " + this.IDgrp;
+        return str;
+    }
 
     @Override
     public void print() {
