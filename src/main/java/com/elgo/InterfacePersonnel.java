@@ -1,5 +1,5 @@
 package com.elgo;
 
-public interface PersonnelInterface {
+public interface InterfacePersonnel {
     void print();
 }

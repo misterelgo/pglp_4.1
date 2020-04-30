@@ -2,12 +2,60 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3156737-1d93-4267-98c8-5741e7a21c71" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/elgo/AffichageParGroupe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/elgo/InterfacePersonnel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/elgo/PersonnelBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/elgo/PersonnelComposite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/PersonnelCompositeTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/elgo/AffichageParGroupeTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pglp_4.1.iml" beforeDir="false" afterPath="$PROJECT_DIR$/pglp_4.1.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/elgo/CompositePersonnel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/elgo/CompositePersonnel.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/elgo/CompositePersonnel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/elgo/CompositePersonnel.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/PersonnelTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/PersonnelTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/elgo/AffichParGroupe.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/elgo/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/elgo/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/elgo/CompositePersonnel.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/elgo/Iterator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/elgo/Iterator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/elgo/Personnel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/elgo/Personnel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/elgo/PersonnelInterface.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/PersonnelTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/checkstyle-cachefile" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/checkstyle-checker.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/checkstyle-result.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/elgo/AffichParGroupe$groupIterator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/elgo/AffichParGroupe.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/elgo/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/elgo/App.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/elgo/CompositePersonnel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/elgo/Personnel$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/elgo/Personnel$Builder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/elgo/Personnel.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/elgo/Personnel.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/elgo/PersonnelInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/checkstyle.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/checkstyle.rss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/css/maven-base.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/css/maven-theme.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/css/print.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/css/site.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/dependencies.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/dependency-info.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/images/close.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/images/collapsed.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/images/expanded.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/images/external.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/images/icon_error_sml.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/images/icon_info_sml.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/images/icon_success_sml.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/images/icon_warning_sml.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/images/logos/build-by-maven-black.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/images/logos/build-by-maven-white.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/images/logos/maven-feather.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/images/newwindow.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/images/rss.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/plugin-management.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/plugins.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/project-info.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/project-reports.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/summary.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/PersonnelTest.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,17 +82,22 @@
     </option>
   </component>
   <component name="ProjectId" id="1YzMvZlYbOaKy6zstcMPfyloVLn" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/pom.xml" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../exercice_4.1/pom.xml" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -58,7 +111,12 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.PersonnelTest.test">
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean" />
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.AffichageParGroupeTest.testIterator">
     <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.elgo.App" />
       <module name="pglp_4.1" />
@@ -68,6 +126,32 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AffichageParGroupeTest.testIterator" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="pglp_4.1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.elgo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.elgo" />
+      <option name="MAIN_CLASS_NAME" value="com.elgo.AffichageParGroupeTest" />
+      <option name="METHOD_NAME" value="testIterator" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PersonnelCompositeTest.addPersonnel" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="pglp_4.1" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PersonnelCompositeTest" />
+      <option name="METHOD_NAME" value="addPersonnel" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -93,9 +177,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.AffichageParGroupeTest.testIterator" />
+        <item itemvalue="JUnit.PersonnelCompositeTest.addPersonnel" />
+        <item itemvalue="Application.App" />
         <item itemvalue="JUnit.PersonnelTest.test" />
         <item itemvalue="JUnit.PersonnelTest" />
-        <item itemvalue="Application.App" />
       </list>
     </recent_temporary>
   </component>
@@ -109,8 +195,19 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1583941200129</updated>
+      <workItem from="1586605687975" duration="95000" />
+      <workItem from="1586609255680" duration="3703000" />
+      <workItem from="1587185012035" duration="18994000" />
+      <workItem from="1587218198228" duration="18000" />
+      <workItem from="1588286234190" duration="1049000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="278" y="63" width="810" height="680" key="#Intentions" timestamp="1583941401616">
@@ -121,33 +218,59 @@
       <screen x="0" y="31" width="1366" height="737" />
     </state>
     <state x="491" y="113" width="384" height="580" key="#com.intellij.ide.util.MemberChooser/0.31.1366.737@0.31.1366.737" timestamp="1583946388958" />
-    <state x="466" y="160" width="434" height="487" key="FileChooserDialogImpl" timestamp="1584809970367">
-      <screen x="0" y="31" width="1366" height="737" />
+    <state x="531" y="253" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1586609344505">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="531" y="253" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1586609344505" />
+    <state x="466" y="127" width="434" height="487" key="FileChooserDialogImpl" timestamp="1588286520259">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="466" y="127" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1588286520259" />
     <state x="466" y="160" width="434" height="487" key="FileChooserDialogImpl/0.31.1366.737@0.31.1366.737" timestamp="1584809970367" />
-    <state width="1320" height="174" key="GridCell.Tab.0.bottom" timestamp="1585242241447">
-      <screen x="0" y="31" width="1366" height="737" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1588287383932">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588287383932" />
     <state width="1320" height="174" key="GridCell.Tab.0.bottom/0.31.1366.737@0.31.1366.737" timestamp="1585242241447" />
-    <state width="1320" height="174" key="GridCell.Tab.0.center" timestamp="1585242241446">
-      <screen x="0" y="31" width="1366" height="737" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1588287383932">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1588287383932" />
     <state width="1320" height="174" key="GridCell.Tab.0.center/0.31.1366.737@0.31.1366.737" timestamp="1585242241446" />
-    <state width="1320" height="174" key="GridCell.Tab.0.left" timestamp="1585242241446">
-      <screen x="0" y="31" width="1366" height="737" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1588287383932">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1588287383932" />
     <state width="1320" height="174" key="GridCell.Tab.0.left/0.31.1366.737@0.31.1366.737" timestamp="1585242241446" />
-    <state width="1320" height="174" key="GridCell.Tab.0.right" timestamp="1585242241446">
-      <screen x="0" y="31" width="1366" height="737" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1588287383932">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1588287383932" />
     <state width="1320" height="174" key="GridCell.Tab.0.right/0.31.1366.737@0.31.1366.737" timestamp="1585242241446" />
-    <state x="343" y="229" key="com.intellij.ide.util.TipDialog" timestamp="1584809957147">
-      <screen x="0" y="31" width="1366" height="737" />
+    <state x="186" y="9" key="SettingsEditor" timestamp="1586605784592">
+      <screen x="0" y="0" width="1366" height="728" />
     </state>
+    <state x="186" y="9" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1586605784592" />
+    <state x="343" y="196" key="com.intellij.ide.util.TipDialog" timestamp="1587218199691">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="343" y="196" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1587218199691" />
     <state x="343" y="229" key="com.intellij.ide.util.TipDialog/0.31.1366.737@0.31.1366.737" timestamp="1584809957147" />
     <state x="429" y="75" width="508" height="657" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1583945127127">
       <screen x="0" y="31" width="1366" height="737" />
     </state>
     <state x="429" y="75" width="508" height="657" key="com.intellij.testIntegration.createTest.CreateTestDialog/0.31.1366.737@0.31.1366.737" timestamp="1583945127127" />
+    <state x="65" y="0" key="new project wizard" timestamp="1586617907429">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1586617907429" />
+    <state x="377" y="221" width="665" height="285" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1586605765465">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="377" y="221" width="665" height="285" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1366.728@0.0.1366.728" timestamp="1586605765465" />
+    <state x="339" y="162" width="672" height="677" key="run.anything.popup" timestamp="1588287383983">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" width="672" height="677" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1588287383983" />
   </component>
 </project>
