@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f3156737-1d93-4267-98c8-5741e7a21c71" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/elgo/AffichageParGroupe.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/elgo/AffichageParGroupe.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/elgo/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/elgo/App.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/elgo/AffichageParGroupeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/elgo/AffichageParGroupeTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -156,7 +153,7 @@
       <workItem from="1587185012035" duration="18994000" />
       <workItem from="1587218198228" duration="18000" />
       <workItem from="1588286234190" duration="10487000" />
-      <workItem from="1588377451980" duration="629000" />
+      <workItem from="1588377451980" duration="872000" />
     </task>
     <servers />
   </component>
@@ -184,25 +181,25 @@
     </state>
     <state x="466" y="127" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1588369217378" />
     <state x="466" y="160" width="434" height="487" key="FileChooserDialogImpl/0.31.1366.737@0.31.1366.737" timestamp="1584809970367" />
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1588377429215">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1588380064051">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588377429215" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1588380064051" />
     <state width="1320" height="174" key="GridCell.Tab.0.bottom/0.31.1366.737@0.31.1366.737" timestamp="1585242241447" />
-    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1588377429215">
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1588380064050">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1588377429215" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1588380064050" />
     <state width="1320" height="174" key="GridCell.Tab.0.center/0.31.1366.737@0.31.1366.737" timestamp="1585242241446" />
-    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1588377429215">
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1588380064050">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1588377429215" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1588380064050" />
     <state width="1320" height="174" key="GridCell.Tab.0.left/0.31.1366.737@0.31.1366.737" timestamp="1585242241446" />
-    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1588377429215">
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1588380064050">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1588377429215" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1588380064050" />
     <state width="1320" height="174" key="GridCell.Tab.0.right/0.31.1366.737@0.31.1366.737" timestamp="1585242241446" />
     <state x="186" y="9" key="SettingsEditor" timestamp="1586605784592">
       <screen x="0" y="0" width="1366" height="728" />

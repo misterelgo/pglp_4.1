@@ -31,8 +31,10 @@ public class AffichageParGroupeTest {
         Iterator grouptIter = personnelsAnnuaire.getIterator();
         while (grouptIter.hasNext()) {
             //System.out.println(grouptIter);
+            System.out.println("Affichage par groupe: ");
             InterfacePersonnel nextelement = (InterfacePersonnel) grouptIter.Next();
             nextelement.print();
+            break;
     }
 }
 }
