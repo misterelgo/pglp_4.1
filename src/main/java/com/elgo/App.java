@@ -11,8 +11,8 @@ public class App
 {
     public static void main( String[] args )
     {   ArrayList<Integer> a1 = new ArrayList<Integer>();
-        a1.add(1);
-        a1.add(2);
+        a1.add(123);
+        a1.add(231);
         System.out.println( a1 );
         Personnel p = new PersonnelBuilder("DIEYE", "Gora", 1).setDateDeNaissance(2020,9,19).getPersonnel();
         System.out.println(p);

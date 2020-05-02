@@ -4,6 +4,7 @@ import org.junit.Test;
 
 import java.util.ArrayList;
 
+import com.elgo.InterfacePersonnel;
 import static org.junit.Assert.*;
 
 public class AffichageParGroupeTest {
@@ -30,9 +31,8 @@ public class AffichageParGroupeTest {
         Iterator grouptIter = personnelsAnnuaire.getIterator();
         while (grouptIter.hasNext()) {
             //System.out.println(grouptIter);
-            InterfacePersonnel nextelement;
-            nextelement = (InterfacePersonnel) grouptIter.Next();
-            System.out.println("Next element: " + nextelement.toString());
+            InterfacePersonnel nextelement = (InterfacePersonnel) grouptIter.Next();
+            nextelement.print();
     }
 }
 }

@@ -9,11 +9,11 @@ public class AffichageParGroupe implements Container {
     public  AffichageParGroupe (InterfacePersonnel racine) {
         this.groups.add(racine);
     }
+
     @Override
     public Iterator getIterator() {
         return new CompositeIterator();
     }
-
 
     private class CompositeIterator implements Iterator{
         int index = 0;
@@ -46,10 +46,6 @@ public class AffichageParGroupe implements Container {
             if(this.hasNext())
                 return groups.get(index++);
             return null;
-        }
-        public Iterator getIterator() {
-            return new CompositeIterator();
-
         }
     }
 }
